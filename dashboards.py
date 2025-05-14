@@ -12,7 +12,7 @@ import time
 import plotly.graph_objects as go
 
 # Ensure this is the correct path
-base_folder = os.path.expanduser('~/Qimproject/')
+base_folder = '/home/appuser/'
 
 
 def run_generation_cleaning():
