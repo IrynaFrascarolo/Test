@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 import glob
 
-base_folder = '/home/appuser/'
+base_folder =  '/home/adminuser/venv/'
 
 def clean_data(df):
     # Ensure the 'Error Code' column is treated as string to accommodate 'No Error'
